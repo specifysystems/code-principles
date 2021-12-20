@@ -65,7 +65,7 @@ SKIP=flake8,black git commit
 ## See Also
 
 [Syncing pre-commit hooks across
-repositories](https://github.com/maxxxxxdlp/pre-commit-tools#syncing-global-and-local-pre-commit-files)
+repositories](https://github.com/maxpatiiuk/pre-commit-tools#syncing-global-and-local-pre-commit-files)
 
 [Keeping pre-commit hooks
-up-to-date](https://github.com/maxxxxxdlp/pre-commit-tools#updating-global-hooks-config-file)
+up-to-date](https://github.com/maxpatiiuk/pre-commit-tools#updating-global-hooks-config-file)

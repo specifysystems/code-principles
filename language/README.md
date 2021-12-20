@@ -41,7 +41,7 @@ accidentally:
 Example config:
 
 ```yaml
-- repo: https://github.com/maxxxxxdlp/pre-commit
+- repo: https://github.com/maxpatiiuk/pre-commit
   rev: v1.0.5
   hooks:
     - id: regex-blacklist
@@ -49,7 +49,7 @@ Example config:
         - specifyweb/frontend/js_src/lib/tests/regex-blacklist.txt
 ```
 
-[Documentation](https://github.com/maxxxxxdlp/pre-commit)
+[Documentation](https://github.com/maxpatiiuk/pre-commit)
 
 ### Spell checker
 
@@ -143,7 +143,7 @@ Example config:
 Duplicate code detection
 
 ```yaml
-- repo: https://github.com/maxxxxxdlp/mirrors-jscpd
+- repo: https://github.com/maxpatiiuk/mirrors-jscpd
   rev: v3.3.26
   hooks:
     - id: jscpd

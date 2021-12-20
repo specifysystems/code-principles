@@ -15,7 +15,7 @@ updates:
     schedule:
       interval: "monthly"
     assignees:
-      - "maxxxxxdlp"
+      - "maxpatiiuk"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:

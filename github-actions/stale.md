@@ -1,0 +1,27 @@
+# Stale
+
+Mark state issues and pull requests
+
+Example config:
+
+```yaml
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+  - cron: "0 0 1 * *"
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/stale@v4
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Stale issue message'
+        stale-pr-message: 'Stale pull request message'
+        stale-issue-label: 'no-issue-activity'
+        stale-pr-label: 'no-pr-activity'
+```

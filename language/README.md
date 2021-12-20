@@ -1,4 +1,27 @@
-# General
+# Language-specific information 
+
+## Contents
+
+This file contains generic information that is not specific to a single
+language.
+
+Language-specific information:
+- [JavaScript](./language/javascript)
+- [Python](./language/python)
+
+## Documentation
+
+Create `README.md` files in key folders of the project. The content of
+this file would be rendered whenever that folder is opened in an IDE
+or GitHub.
+
+Such file may contain:
+ - High level overview of the files in the directory
+ - Major design decisions and the reason behind them
+
+Additionally, each file should contain in-line documentation (at the top
+of the file, and a comment for each function). For more details, see language
+specific guidelines.
 
 ## Pre-commit hooks
 

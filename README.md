@@ -12,7 +12,7 @@ projects.
 
 - [GitHub Actions](./github-actions)
 - [Pre-commit Hooks](./pre-commit-hooks.md)
-- Language specific
-    - [General](./language/general)
+- [Language specific](./language)
+    - [General](./language/README.md)
     - [JavaScript](./language/javascript)
     - [Python](./language/python)

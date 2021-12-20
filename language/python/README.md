@@ -1,5 +1,14 @@
 # Python
 
+## Documentation
+
+See [documentation](https://github.com/specifysystems/code-principles/blob/main/language/README.md#documentation)
+in the general section first.
+
+For in-line comments, use Google style of Python DocStrings.
+Use [DargLint](#Darglint) and [PyDocStyle](#PyDocStyle) pre-commit hooks for
+enforcing compliance and detecting style issues in DocStrings.
+
 ## Pre-commit hooks
 
 ### Black

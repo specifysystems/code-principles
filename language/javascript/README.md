@@ -3,6 +3,15 @@
 Code-style guidelines and best practices for JavaScript (including
 TypeScript and React)
 
+## Documentation
+
+See [documentation](https://github.com/specifysystems/code-principles/blob/main/language/README.md#documentation)
+in the general section first.
+
+For in-line comments, use JSDoc format for legacy projects that do not use
+TypeScript and TSDoc for all new projects. In the latter case, `TypeDoc` can be
+used for rendering documentation comments.
+
 ## Pre-commit hooks
 
 ### Prettier

@@ -23,9 +23,9 @@ And this to update hooks to the newest version:
 pre-commit autoupdate
 ```
 
-Finally, create a `.pre-commit-config.yaml` file and add configure
+Finally, create a `.pre-commit-config.yaml` file and configure
 some hooks. Hooks used by existing projects at specify are described
-in the `./language` folder.
+in the [./language](./language) folder.
 
 [Example hooks config
 file](https://github.com/specify/specify7/blob/production/.pre-commit-config.yaml)

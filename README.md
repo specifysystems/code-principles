@@ -10,6 +10,7 @@ projects.
 
 ## Contents
 
+- [Code Visualization](./visualization)
 - [GitHub Actions](./github-actions)
 - [Pre-commit Hooks](./pre-commit-hooks.md)
 - [Language specific](./language)

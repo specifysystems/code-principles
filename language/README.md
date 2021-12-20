@@ -6,8 +6,8 @@ This file contains generic information that is not specific to a single
 language.
 
 Language-specific information:
-- [JavaScript](./language/javascript)
-- [Python](./language/python)
+- [JavaScript](./javascript)
+- [Python](./python)
 
 ## Documentation
 
